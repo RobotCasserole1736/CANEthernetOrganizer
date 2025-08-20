@@ -1,8 +1,12 @@
 # CAN Ethernet Organizer
 
+<img width="765" height="489" alt="image" src="https://github.com/user-attachments/assets/f6c0bc85-7c23-4923-9acc-24b0a2665dd8" />
+
 ## Sources 
 
 [Circuit Board Design](https://easyeda.com/editor#project_id=c0b92af93ce74d5ca46f8dad5e09f08a)
+
+[Case Design](https://cad.onshape.com/documents/a56cdedbed96c5c3cf9e883b/w/beced8c700cd4dec7f4b0609/e/cf17f949576d780bc52e495e?renderMode=0&uiState=68a6605f6cbc22313f9dbde9)
 
 ## Quickstart
 
